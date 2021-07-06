@@ -56,7 +56,7 @@ p{
     padding-bottom: 100px;
 }
 .recipie-width{
-    width: 500px;
+    width: 33%;
     height: 500px;
     margin-left: 5%;
     margin-right: 5%;
@@ -67,4 +67,33 @@ p{
 .recipie-width img{
     width: 100%;
     height: 50%;
+}
+.followers{
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+.followers-width{
+    width: 50%;
+    height: 100px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 60px;
+}
+.footer-color{
+    color: gray;
+}
+#footer-text{
+    color: white;
+    text-align: center;
 }
